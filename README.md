@@ -1,4 +1,4 @@
-학습 내용
+학습 내용<br><br>
 
 <img width="595" alt="1" src="https://github.com/wkdckd41/springboot-ac/assets/94946079/99e4aeb8-682f-42dd-ad76-9b46528d4ab3"><br>
 1. 스프링 부트 살펴보기
